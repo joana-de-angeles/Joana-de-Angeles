@@ -1,4 +1,4 @@
-### Hi 👋, welcome to my github!
+### Hi there 👋, come on in and explore my GitHub world!
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=joana-de-angeles" alt="joana-de-angeles" /></p>
 
@@ -13,7 +13,7 @@ I'm learning at the moment **Java**
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joana_d_angeles/)](https://www.instagram.com/joana_d_angeles/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dangeles.joana@gmail.com)](mailto:dangeles.joana@gmail.com)
 
-## 🚀💻 Technologies & Tools
+## &#128641;💻 Technologies & Tools 💻 &#128641;
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
