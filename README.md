@@ -32,5 +32,5 @@ I'm learning at the moment **Java**
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joanadeangeles&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanadeangeles&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=joana-de-angeles&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joana-de-angeles&hide=TeX&layout=compact)
