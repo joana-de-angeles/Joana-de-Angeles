@@ -9,7 +9,7 @@ I currently work at [Fiocruz Brasília](https://www.fiocruzbrasilia.fiocruz.br/)
 I'm learning at the moment **Java**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joana-d-angeles-costa-ribeiro-004b0b28b/)](www.linkedin.com/in/joana-de-angeles)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joana-d-angeles-costa-ribeiro-004b0b28b/)](https://www.linkedin.com/in/joana-de-angeles/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joana_d_angeles/)](https://www.instagram.com/joana_d_angeles/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dangeles.joana@gmail.com)](mailto:dangeles.joana@gmail.com)
 
