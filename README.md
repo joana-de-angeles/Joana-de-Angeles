@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=joana-de-angeles" alt="joana-de-angeles" /></p>
 
-<p align = "justify">Frontend Developer | Angular | JS  </p>
+<p align = "justify">Front-end Developer | Angular | JS  </p>
 
 I currently work at [Fiocruz Brasília](https://www.fiocruzbrasilia.fiocruz.br/)
 
@@ -17,6 +17,7 @@ I'm learning at the moment **Java**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
